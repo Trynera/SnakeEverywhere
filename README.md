@@ -6,4 +6,4 @@ there should only be 1 apple rendered (if the one is gone another one should get
 if the player touches the top/bottom/left end or right end it should teleport him to the other side.
 if the player touches his tail he should be resetted.
 
-If you have ported this version of Snake to a platform not yet on the list contact me on Discord: Trynera#5577
+If you have ported this version of Snake to a platform not yet on the list contact me on Discord: Trynera#5577 (I will credit you!)
